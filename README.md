@@ -17,6 +17,8 @@ show_bundle bundle-geode-1-app-perf_test_powerbi-cluster-powerbi
 
 ## Installing Bundle
 
+✏️  *Please see [Installing Bundles](https://github.com/padogrid/padogrid/wiki/Installing-Bundles) for instructions on how to install bundles and their required software.*
+
 ```bash
 install_bundle -download bundle-geode-1-app-perf_test_powerbi-cluster-powerbi
 ```
